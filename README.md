@@ -11,6 +11,7 @@
 I am a passionate **Software Development Engineer (Full-Stack / Java Backend)** who loves architecting robust microservices, building clean user interfaces, and integrating generative AI to solve real-world problems.
 
 - 🔭 **Featured Project**: [GmailGenie AI](https://github.com/utkarshkulkarni45/GmailGenie_AI) — A full-stack AI email assistant with a Chrome Extension, Spring Boot 4 backend, and multi-model failover engine.
+- 📜 **Certification**: **Certified Java Full Stack Developer** — AccioJob *(Credential: db1e36)*
 - 🎓 **Focus**: Software Engineering, Clean Architecture, Distributed Systems & RESTful APIs.
 - 💬 **Ask me about**: Java, Spring Boot, React, Docker, Chrome Extensions & Generative AI APIs.
 - 🎯 **Career Goal**: Seeking full-time **Software Engineer / Java Backend / Full-Stack** opportunities (Fresher).
