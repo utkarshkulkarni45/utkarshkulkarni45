@@ -79,16 +79,8 @@ I am a passionate **Software Development Engineer (Full-Stack / Java Backend)** 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkulkarni45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utkarsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkulkarni45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Let's Connect!
+
 
 - **LinkedIn**: [linkedin.com/in/utkarshkulkarni101](https://www.linkedin.com/in/utkarshkulkarni101)
 - **GitHub**: [github.com/utkarshkulkarni45](https://github.com/utkarshkulkarni45)
